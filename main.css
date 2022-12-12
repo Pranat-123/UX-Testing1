@@ -1,0 +1,9 @@
+.outerContainer .logo {
+    padding: 15px 0 15px 25px;
+    line-height: 20px;
+    margin: 0;
+    display: inline-block; 
+    width: 67px;
+    height: 60px;
+    opacity: 0.81;
+ }
